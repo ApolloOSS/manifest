@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Apollo -->
+  <remote  name="gitlab-apollo"
+           fetch="https://gitlab.com/ThankYouMario"
+           revision="topaz" />
+
+  <remote  name="github-apollo"
+           fetch="https://github.com" />
+
+</manifest>
